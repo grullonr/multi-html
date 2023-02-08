@@ -1,0 +1,109 @@
+/*
+Author: Rafael Grullon
+*/
+
+body {
+    background-color:rgb(233, 211, 144);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid white;
+}
+
+.github {
+    text-align: center;
+    padding: 10px;
+}
+
+.aboutme {
+    text-align: center;
+    padding: 10px;
+}
+
+.gitb {
+    background-color: white;
+    padding: 20px 24.5px;
+    color: lightpink;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+    opacity: .9;
+}
+
+.aboutb{
+    background-color: white;
+    padding: 20px 20px;
+    color: lightpink;
+    text-decoration: none;
+    display: inline-block;
+    opacity: 0.9;
+    }
+
+    .gitb:hover{
+        background-color: palevioletred;
+    }
+
+    .aboutb:hover{
+        background-color: palevioletred;
+    }
+
+    p {
+        width: 400px;
+        padding: 15px;
+        border: 5px solid white;
+        margin: auto;
+        color: white;
+        font-weight: bold;
+        word-spacing: 1px;
+    }
+
+    .list{
+        text-align: center;
+        color:white;
+        font-weight: bold;
+    }
+
+    .backbutton {
+        text-align: center;
+        padding: 30px;
+    }
+    .button {
+        background-color: white;
+        padding: 20px 24.5px;
+        color: lightpink;
+        text-decoration: none;
+        display: inline-block;
+        margin: auto;
+        opacity: .9;
+    }
+
+    .button:hover{
+        background-color: palevioletred;
+    }
+
+    .javascript{
+        text-align: center;
+        padding: 30px;
+    }
+
+    .jbutton{
+        background-color: white;
+        padding: 20px 24.5px;
+        color: lightpink;
+        text-decoration: none;
+        display: inline-block;
+        margin: auto;
+        opacity: .9;
+    }
+
